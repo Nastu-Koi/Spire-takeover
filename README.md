@@ -1,6 +1,6 @@
 # Spire Takeover：让模型接管 Steam 版《杀戮尖塔 2》
 
-从 [Spire-model](../Spire-model) 单独拆出的实机接管功能，只保留三样东西：
+从 [Spire-model]([../Spire-model](https://github.com/Nastu-Koi/Spire-model)) 单独拆出的实机接管功能，只保留三样东西：
 
 | 目录 | 内容 |
 | --- | --- |
