@@ -1,0 +1,5 @@
+mod/bin/
+mod/obj/
+build/
+__pycache__/
+*.pyc
